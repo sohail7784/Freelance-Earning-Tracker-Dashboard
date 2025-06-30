@@ -13,4 +13,6 @@ Custom visuals, formatting & shape overlays
 🎯 Custom Design with Shape-based Sidebar
 # Data Overview
 https://github.com/sohail7784/Freelance-Earning-Tracker-Dashboard/blob/main/freelancer_data.csv
+# Dashboard Overview
+https://github.com/sohail7784/Freelance-Earning-Tracker-Dashboard/blob/main/freelancer%20dashboard.pbix
 
